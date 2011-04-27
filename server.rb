@@ -97,7 +97,7 @@ __END__
       %a{:href=>"https://github.com/packetlss/android-locdump"} Magnus Eriksson
       (android-locdump parser)
       &dash;
-      %a{:href=>"http://github.com/badboy/androdi-loc-map/"} code on github
+      %a{:href=>"http://github.com/badboy/android-loc-map/"} code on github
       &dash;
       %b Data is only uploaded to be parsed. Nothing is stored server-side!
   </div>
